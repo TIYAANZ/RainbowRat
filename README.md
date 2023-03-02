@@ -92,9 +92,9 @@ This tool reports to you all the actions performed on the target device such as:
 ## How to use
 **Visit our Telegram channel to receive files and tutorials related to this project**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmy)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tiyaanzs)
 
 ## Fallow us on social media
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmy)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AbyssalArmy?t=edGojRJOZSFoSxsQVVFAOQ&s=09)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tiyaanzs)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/?t=edGojRJOZSFoSxsQVVFAOQ&s=09)
 
